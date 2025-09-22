@@ -1,0 +1,59 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "Random Hello World PWA",
+    "description": "Says \"Hello World!\" in a random human language, on a random background color. It's a PWA, so you can try it in your browser, and add it to your home screen.",
+    "short_name": "Hello World",
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#000000",
+    "background_color": "#1e90ff",
+    "icons": [
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-16.png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-48.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-64.png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-128.png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-152.png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-256.png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/images/manifest/icons/random-hello-world-pwa-icon-512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
