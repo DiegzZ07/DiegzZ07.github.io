@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">geocaching</string>
+    <string name="title_activity_main">geocaching</string>
+    <string name="package_name">geo.diego.geocaching</string>
+    <string name="custom_url_scheme">geo.diego.geocaching</string>
+</resources>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Geocaching simple</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+
+<body>
+  <h1>Geocaching</h1>
+  <h2>DESC</h2>
+  <input id="desc" placeholder="Description">
+  <h2>DESC2</h2>
+
+  <button id="start">Démarrer caméra</button>
+  <button id="photo">Prendre photo + sauver point</button>
+  <button id="stop">Stop caméra</button>
+  <br>
+  <video id="video" autoplay></video>
+  <canvas id="canvas" hidden></canvas>
+  <div id="map"></div>
+
+  <script src="capacitor.js"></script>
+  <script src="js/geo.js"></script>
+</body>
+</html>

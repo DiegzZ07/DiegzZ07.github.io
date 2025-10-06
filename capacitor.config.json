@@ -1,0 +1,9 @@
+{
+  "appId": "geo.diego.geocaching",
+  "appName": "geocaching",
+  "webDir": "www",
+  "server": {
+    "url": "https://geo-diego.cfpt.info",
+    "cleartext": false
+  }
+}
